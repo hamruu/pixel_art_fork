@@ -1,4 +1,4 @@
-def define_bee():
+def define_smile():
     import numpy as np
 
     # make an empty numpy array for storing the image
@@ -84,7 +84,7 @@ def plot_image(image):
     plt.show()
 
 
-bee = define_bee()
-plot_image(bee)
+smile = define_smile()
+plot_image(smile)
 butterfly = define_butterfly()
 plot_image(butterfly)
